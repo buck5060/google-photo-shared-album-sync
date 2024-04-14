@@ -1,0 +1,6 @@
+{
+    "webdav_hostname": "WEBDAV_URL",
+    "webdav_login": "WEBDAV_USERNAME",
+    "webdav_password": "WEBDAV_PASSWORD",
+    "webdav_path": "WEBDAV_PATH_TO_MEDIA"
+}
